@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1647626309 source:c:\users\lcc-unison\documents\memoriadinamica\o\graficador\graficador.cpp
+	"Graficador.h"
+
+1647624206 c:\users\lcc-unison\documents\memoriadinamica\o\graficador\graficador.h
+	<iostream>
+	<winbgim.h>
+	<math.h>
+
+1647558486 source:c:\users\lcc-unison\documents\memoriadinamica\o\graficador\main.cpp
+	<iostream>
+	"Graficador.h"
+
+1647714177 source:c:\users\dell\documents\unison__pandemico\6_to\graficador\graficador.cpp
+	"Graficador.h"
+
+1647713730 c:\users\dell\documents\unison__pandemico\6_to\graficador\graficador.h
+	<iostream>
+	<winbgim.h>
+	<math.h>
+
+1647706609 source:c:\users\dell\documents\unison__pandemico\6_to\graficador\main.cpp
+	<iostream>
+	"Graficador.h"
+
+1647714177 source:c:\users\dell\documents\unison\6_to\graficador\graficador.cpp
+	"Graficador.h"
+
+1647713730 c:\users\dell\documents\unison\6_to\graficador\graficador.h
+	<iostream>
+	<winbgim.h>
+	<math.h>
+
+1647706609 source:c:\users\dell\documents\unison\6_to\graficador\main.cpp
+	<iostream>
+	"Graficador.h"
+
